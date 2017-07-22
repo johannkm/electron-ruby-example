@@ -1,0 +1,23 @@
+{
+  "name": "electron-ruby-example",
+  "version": "0.0.1",
+  "description": "Hello world with Electron and Ruby",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/johannkm/electron-ruby-example",
+  "keywords": [
+    "Electron",
+    "Ruby",
+    "demo"
+  ],
+  "author": "johannkm",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "request-promise": "^4.2.1"
+  }
+}
